@@ -1,0 +1,10 @@
+tensorboard 
+dashscope
+torchvision>=0.10.0
+torch
+tqdm
+zstandard
+numpy
+oss2
+transformers==4.20.1
+numpy==1.21.6

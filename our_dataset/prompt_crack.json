@@ -1,0 +1,92 @@
+[
+  {
+    "class": "normal",
+    "prompt": [
+      {
+        "id": 1,
+        "prompt": "Normal smooth concrete surface finish"
+      },
+      {
+        "id": 2,
+        "prompt": "Surface shows normal concrete texture"
+      },
+      {
+        "id": 3,
+        "prompt": "Normal condition with no visible damage"
+      },
+      {
+        "id": 4,
+        "prompt": "Normal concrete without surface flaws"
+      },
+      {
+        "id": 5,
+        "prompt": "Texture indicates normal concrete quality"
+      },
+      {
+        "id": 6,
+        "prompt": "Normal smoothness across entire surface"
+      },
+      {
+        "id": 7,
+        "prompt": "Normal flat concrete, no cracks"
+      },
+      {
+        "id": 8,
+        "prompt": "Concrete in normal smooth state"
+      },
+      {
+        "id": 9,
+        "prompt": "Normal surface, no visible imperfections"
+      },
+      {
+        "id": 10,
+        "prompt": "Normal concrete with even texture"
+      }
+    ]
+  },
+  {
+    "class": "crack",
+    "prompt": [
+      {
+        "id": 1,
+        "prompt": "Long crack on concrete surface"
+      },
+      {
+        "id": 2,
+        "prompt": "Visible crack along slab joint"
+      },
+      {
+        "id": 3,
+        "prompt": "Diagonal crack in concrete floor"
+      },
+      {
+        "id": 4,
+        "prompt": "Surface crack spreading outward"
+      },
+      {
+        "id": 5,
+        "prompt": "Thin crack with slight widening"
+      },
+      {
+        "id": 6,
+        "prompt": "Concrete crack from stress impact"
+      },
+      {
+        "id": 7,
+        "prompt": "Crack indicating structural weakness"
+      },
+      {
+        "id": 8,
+        "prompt": "Random crack across concrete panel"
+      },
+      {
+        "id": 9,
+        "prompt": "Fine crack due to shrinkage"
+      },
+      {
+        "id": 10,
+        "prompt": "Crack line under external pressure"
+      }
+    ]
+  }
+]

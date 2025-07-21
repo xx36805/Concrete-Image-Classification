@@ -1,0 +1,227 @@
+[
+  {
+    "class": "corrosion_of_reinforcement",
+    "prompt": [
+      {
+        "id": 1,
+        "prompt": "Corrosion_of_reinforcement reduces the strength of concrete structures significantly."
+      },
+      {
+        "id": 2,
+        "prompt": "Chloride ingress is a major cause of corrosion_of_reinforcement in marine environments."
+      },
+      {
+        "id": 3,
+        "prompt": "Corrosion_of_reinforcement on concrete walls"
+      },
+      {
+        "id": 4,
+        "prompt": "Corrosion_of_reinforcement leads to costly structural repairs and maintenance."
+      },
+      {
+        "id": 5,
+        "prompt": "Carbonation-induced corrosion_of_reinforcement occurs in aging concrete."
+      },
+      {
+        "id": 6,
+        "prompt": "Corrosion_of_reinforcement compromises the safety of bridges and buildings."
+      },
+      {
+        "id": 7,
+        "prompt": "High humidity accelerates the corrosion_of_reinforcement process."
+      },
+      {
+        "id": 8,
+        "prompt": "Corrosion_of_reinforcement begins when protective passive layers are damaged."
+      },
+      {
+        "id": 9,
+        "prompt": "Monitoring corrosion_of_reinforcement is essential for structural health."
+      },
+      {
+        "id": 10,
+        "prompt": "Corrosion_of_reinforcement is influenced by water, oxygen, and CO₂."
+      }
+    ]
+  },
+  {
+    "class": "crack",
+    "prompt": [
+      {
+        "id": 1,
+        "prompt": "A crack appeared along the concrete beam surface."
+      },
+      {
+        "id": 2,
+        "prompt": "The crack widened due to thermal expansion."
+      },
+      {
+        "id": 3,
+        "prompt": "A hairline crack formed after drying shrinkage."
+      },
+      {
+        "id": 4,
+        "prompt": "Crack propagation threatens structural stability."
+      },
+      {
+        "id": 5,
+        "prompt": "Moisture seeped through the surface crack."
+      },
+      {
+        "id": 6,
+        "prompt": "Settlement caused a visible crack in the wall."
+      },
+      {
+        "id": 7,
+        "prompt": "The crack depth indicates serious internal damage."
+      },
+      {
+        "id": 8,
+        "prompt": "A vertical crack formed due to foundation movement."
+      },
+      {
+        "id": 9,
+        "prompt": "Cracks reduced the load-bearing capacity."
+      },
+      {
+        "id": 10,
+        "prompt": "Cracks can allow aggressive agents to penetrate concrete."
+      }
+    ]
+  },
+  {
+    "class": "hole",
+    "prompt": [
+      {
+        "id": 1,
+        "prompt": "A shallow hole exists near the top layer."
+      },
+      {
+        "id": 2,
+        "prompt": "Hole with uneven edges in hardened concrete."
+      },
+      {
+        "id": 3,
+        "prompt": "A deep hole is located centrally."
+      },
+      {
+        "id": 4,
+        "prompt": "Multiple hole defects scattered across surface."
+      },
+      {
+        "id": 5,
+        "prompt": "Isolated hole detected in the concrete wall."
+      },
+      {
+        "id": 6,
+        "prompt": "A surface hole disrupts uniform appearance."
+      },
+      {
+        "id": 7,
+        "prompt": "Single hole surrounded by minor roughness."
+      },
+      {
+        "id": 8,
+        "prompt": "Clustered hole marks indicate poor finish."
+      },
+      {
+        "id": 9,
+        "prompt": "A vertical hole runs along the form line."
+      },
+      {
+        "id": 10,
+        "prompt": "Hole extends slightly into the concrete core."
+      }
+    ]
+  },
+    {
+    "class": "honeycomb",
+    "prompt": [
+      {
+        "id": 1,
+        "prompt": "Honeycomb in the slab leads to strength loss."
+      },
+      {
+        "id": 2,
+        "prompt": "Honeycomb was found around the joint section."
+      },
+      {
+        "id": 3,
+        "prompt": "The honeycomb defect affects durability and load capacity."
+      },
+      {
+        "id": 4,
+        "prompt": "Localized honeycomb occurred due to fast setting concrete."
+      },
+      {
+        "id": 5,
+        "prompt": "Honeycomb patterns suggest insufficient concrete flow."
+      },
+      {
+        "id": 6,
+        "prompt": "Honeycomb damage must be repaired before load testing."
+      },
+      {
+        "id": 7,
+        "prompt": "The wall section has multiple honeycomb cavities."
+      },
+      {
+        "id": 8,
+        "prompt": "Honeycomb observed at the base indicates compaction failure."
+      },
+      {
+        "id": 9,
+        "prompt": "Large honeycomb spots reduce concrete structural integrity."
+      },
+      {
+        "id": 10,
+        "prompt": "Improper compaction resulted in severe honeycomb in the column."
+      }
+    ]
+  },
+    {
+    "class": "normal",
+    "prompt": [
+      {
+        "id": 1,
+        "prompt": "The surface shows a normal smooth concrete texture."
+      },
+      {
+        "id": 2,
+        "prompt": "This is a normal smooth finish for concrete."
+      },
+      {
+        "id": 3,
+        "prompt": "Concrete appears with a normal and smooth surface."
+      },
+      {
+        "id": 4,
+        "prompt": "Normal concrete finish is smooth and consistent."
+      },
+      {
+        "id": 5,
+        "prompt": "A normal smooth texture defines this concrete surface."
+      },
+      {
+        "id": 6,
+        "prompt": "Normal concrete surface looks clean and polished."
+      },
+      {
+        "id": 7,
+        "prompt": "The pavement shows a normal smooth concrete style."
+      },
+      {
+        "id": 8,
+        "prompt": "Surface finish is normal and visually smooth."
+      },
+      {
+        "id": 9,
+        "prompt": "Concrete has a normal appearance with smooth texture."
+      },
+      {
+        "id": 10,
+        "prompt": "Concrete looks normal with a fine smooth finish."
+      }
+    ]
+  }
+]
